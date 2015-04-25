@@ -3,7 +3,7 @@
 ## inverse has already been calculated, then the function retrieves the cached
 ## inverse matrix, otherwise it calculates the inverse, caches it, and returns
 ## its value. Caching inverse of a matrix reduces the computational cost of
-## calculating it repetitively.
+## calculating it repeatedly.
 
 
 ## Returns a matrix object that can cache its inverse. Get and set functions are
